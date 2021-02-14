@@ -1,0 +1,32 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Organizes and creates a webpage that displays team's basic info so that you have access to their emails and GitHub Profiles. ",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KashCodes/Team-Profile-Generator.git"
+  },
+  "keywords": [
+    "node.js",
+    "inquirer",
+    "jest",
+    "javascript"
+  ],
+  "author": "Kashay Arbelo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KashCodes/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/KashCodes/Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "jest": "^26.6.3"
+  }
+}
