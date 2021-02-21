@@ -242,5 +242,5 @@ const buildPage = () => {
 
 };
 
-
+managerPrompts();
 runAllPrompts();
