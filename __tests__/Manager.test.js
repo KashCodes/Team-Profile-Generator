@@ -3,7 +3,7 @@ const Manager = require("../lib/Manager");
 const Employee = require("../lib/Employee");
 
 // Pulls from __mocks__ folder instead
-jest.mock('../lib/Employee.js');
+// jest.mock('../lib/Employee.js');
 
 // returns test for office number w/ fake name, employee number and email.
 test("Office Number set by constructor argument", () => {
@@ -11,3 +11,5 @@ test("Office Number set by constructor argument", () => {
   const emp = new Manager("Ryan", 1, "Thisisnotreal@fake.com", testValue);
   expect(emp.officeNumber).toBe(testValue);
 });
+
+// returns test for employee role
