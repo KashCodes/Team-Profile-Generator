@@ -19,6 +19,11 @@
   ## Description
   ❓ A Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person which is located [here](./dist/index.html).
 
+  ### Link to Walkthrough Video:
+  > - [:movie_camera: Click Here for an external video link.](https://drive.google.com/file/d/1ZcT_xT9xDOOrXDOjrFpcKALfTTh31Qqg/view)
+  > - [:movie_camera: Click Here for the downloaded MP4 video saved locally.](./src/demo-MP4.mp4)
+  > - [:movie_camera: Click Here for the downloaded webm video saved locally.](./src/demo-webm.webm)
+
   :loop: For you, a GIF showing the tests and email functions working:
 
   ![tests](./src/demo2.gif)
@@ -46,6 +51,10 @@
   🚨 Please install the following Node/npm Packages. 
   <br /> `npm init`<br />  <br />`npm install inquirer`<br /> <br />`npm install email-validator`<br /> <br />`npm install jest --save-dev`
 
+  ## GitHub Repository Link: 
+  > https://github.com/KashCodes/Team-Profile-Generator
+
+
   ## Usage
   🚀 From the root folder of your project, run the following command and provide information based on the questions: 
   
@@ -70,9 +79,8 @@
   ## Questions
   🔧 Please feel free e-mail me should you have any questions, comments, or concerns.  Or you can also connect with me through GitHub.<br />
     <br />
-    :octocat: Find me on GitHub: [KashCodes](https://github.com/KashCodes)<br />
-    <br />
-    📜 Feel free to email me with any questions: kashay@arbelo.me<br /><br />
+  :octocat: Find me on GitHub: [KashCodes](https://github.com/KashCodes)
+  📜 Feel free to email me with any questions: kashay@arbelo.me<br /><br />
     
     
 
