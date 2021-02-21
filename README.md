@@ -58,9 +58,8 @@
   This application is covered by the MIT license.
 
 
-  ## Contributors
-  👥:<br />
-  :octocat: Find me on GitHub: [KashCodes](https://github.com/KashCodes)<br />
+  ## 👥Contributors:
+  :octocat: [KashCodes](https://github.com/KashCodes)<br />
   :octocat: [Dan Arbelo](https://github.com/govepitr)  
   
 
