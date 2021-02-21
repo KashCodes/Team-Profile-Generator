@@ -1,9 +1,6 @@
 // requires/connects necessary constructor functions/modules.
 const Employee = require("../lib/Employee");
 
-// Pulls from __mocks__ folder instead
-jest.mock('../lib/Employee.js');
-
 // tests to returns newly generated employee
 test("New Employee generated", () => {
   const emp = new Employee();
