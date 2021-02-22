@@ -20,24 +20,15 @@
   ❓ A Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person which is located [here](./dist/index.html).
 
   ### Link to Walkthrough Video:
-  > - [:movie_camera: Click Here for an external video link.](https://drive.google.com/file/d/1ZcT_xT9xDOOrXDOjrFpcKALfTTh31Qqg/view)
+  > - [:movie_camera: Click Here for an external video link.](https://drive.google.com/file/d/1Css4udq3OncbN8SV17ETKTN_gyEraXpU/view)
   > - [:movie_camera: Click Here for the downloaded MP4 video saved locally.](./src/demo-MP4.mp4)
   > - [:movie_camera: Click Here for the downloaded webm video saved locally.](./src/demo-webm.webm)
-
-  :loop: For you, a GIF showing the tests and email functions working:
-
-  ![tests](./src/demo2.gif)
-
-  :paperclip: Here's a [link](./src/pudding.webm) showing the tests and email links bringing up my default email program
 
 
   :loop: Here's a GIF showing the app's overall functionality:
 
   ![demo](./src/demo.gif)
 
-  :movie_camera: For the full functionality, please click the [link](./src/Profile.webm) to download(videos work best in VLC)
-
-  
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
